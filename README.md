@@ -2,8 +2,6 @@
 
 Here we provide easy-to-use tutorials for working with GeoNEX Geostationary Satellite Imagery. 
 
-### Check out our brand new tutorial! 
-
 ## [Getting started with GeoNEX data ](https://nbviewer.jupyter.org/github/GeoNEX-Community-Tools/GeoNEX-Science-Tutorials/blob/master/Getting_Started_with_GEONEX_TOA.ipynb)
 
 This tutorial will walk you through how to get started working with the data including how to:
