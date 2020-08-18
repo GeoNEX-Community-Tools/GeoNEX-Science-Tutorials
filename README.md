@@ -2,7 +2,7 @@
 
 Here we provide easy-to-use tutorials for working with GeoNEX Geostationary Satellite Imagery. 
 
-## [Getting started with GeoNEX data ](https://nbviewer.jupyter.org/github/GeoNEX-Community-Tools/GeoNEX-Science-Tutorials/blob/master/Getting_Started_with_GEONEX_TOA.ipynb)
+## [Getting started with GeoNEX data ](https://nbviewer.jupyter.org/github/GeoNEX-Community-Tools/GeoNEX-Science-Tutorials/blob/master/Getting_Started_with_GEONEX_TOA.ipynb?flush_cache=true)
 
 This tutorial will walk you through how to get started working with the data including how to:
 * Download GeoNEX data from the [NAS Data Portal](https://data.nas.nasa.gov/geonex/)
